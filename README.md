@@ -1,5 +1,5 @@
 # tokenToken
-       This Solidity program is a simple "tokenToken" application that explains the Solidity programming language's fundamental syntax and capabilities. The goal of this program aims to serve as the starting point for individuals who are new to Solidity and wish to learn how it works.
+This Solidity program is a simple "tokenToken" application that explains the Solidity programming language's fundamental syntax and capabilities. The goal of this program aims to serve as the starting point for individuals who are new to Solidity and wish to learn how it works.
 
 ## Description
 - 
