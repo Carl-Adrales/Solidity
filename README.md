@@ -2,7 +2,7 @@
 This Solidity program is a simple "tokenToken" application that explains the Solidity programming language's fundamental syntax and capabilities. The goal of this program aims to serve as the starting point for individuals who are new to Solidity and wish to learn how it works.
 
 ## Description
-- 
+- Hello everyone! My. name is Carl, and this is my final assessment for solidity and I will discuss to you have to create a token and how to mint and burn it. Thank you.
 
 ## Getting Started
 // SPDX-License-Identifier: MIT
