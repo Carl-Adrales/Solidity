@@ -5,6 +5,7 @@ This Solidity program is a simple "tokenToken" application that explains the Sol
 - Hello everyone! My. name is Carl, and this is my final assessment for solidity and I will discuss to you how to create a token and how to mint and burn it. Thank you.
 
 ## Getting Started
+```
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
@@ -52,7 +53,7 @@ contract MyToken {
     }
 
 }
-
+```
 ## Executing Program
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/. 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., HelloWorld.sol). Then copy the code given in the assessment. 
